@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412" height="870" viewBox="0 0 412 870">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="3" width="208" height="150" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Pantalla_Reporte">
+      <rect width="412" height="870"/>
+    </clipPath>
+  </defs>
+  <g id="Pantalla_Reporte" data-name="Pantalla Reporte" clip-path="url(#clip-Pantalla_Reporte)">
+    <rect width="412" height="870" fill="#771073"/>
+    <g id="Boton" transform="translate(136 726)">
+      <text id="REGRESAR" transform="translate(70 32)" fill="#fff" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-70.027" y="0">REGRESAR</tspan></text>
+    </g>
+    <g id="Grupo_de_desplazamiento_1" data-name="Grupo de desplazamiento 1" transform="translate(102 714)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <rect id="Rectángulo_8" data-name="Rectángulo 8" width="208" height="63" rx="31.5" fill="#fff" opacity="0.55"/>
+    </g>
+    <path id="Scroll" d="M-266-835.768-276.913-848.5h21.826Zm10.913-19.732h-21.826L-266-868.232Z" transform="translate(643 1258)" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="1"/>
+    <rect id="Text_field" data-name="Text field" width="368" height="40" transform="translate(24.5 386)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Tipo_de_delito" data-name="Tipo de delito" transform="translate(24.5 379)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Delito</tspan></text>
+    <g id="Scroll-2" data-name="Scroll" transform="translate(643 1175)" fill="#0a0a0a">
+      <path d="M -266.0003662109375 -835.7684936523438 L -276.9129638671875 -848.4996948242188 L -255.0869598388672 -848.4996948242188 L -266.0003662109375 -835.7684936523438 Z M -255.0869293212891 -855.5 L -276.9130249023438 -855.5 L -266.0003967285156 -868.2321166992188 L -255.0869293212891 -855.5 Z" stroke="none"/>
+      <path d="M -266.0003662109375 -836.5368041992188 L -256.1741333007813 -847.9996948242188 L -275.8258361816406 -847.9996948242188 L -266.0003662109375 -836.5368041992188 M -256.1740417480469 -856 L -266.0003662109375 -867.4638061523438 L -275.8259582519531 -856 L -256.1740417480469 -856 M -266.0003967285156 -835.000244140625 L -278.0000915527344 -848.9996948242188 L -253.9998016357422 -848.9996948242188 L -266.0003967285156 -835.000244140625 Z M -253.9998016357422 -855 L -278.0000915527344 -855 L -266.0003967285156 -869.0004272460938 L -253.9998016357422 -855 Z" stroke="none" fill="#0a0a0a"/>
+    </g>
+    <rect id="Text_field-2" data-name="Text field" width="368" height="40" transform="translate(24.5 304.12)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Barrio" transform="translate(24.5 297.12)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Barrio</tspan></text>
+    <g id="Scroll-3" data-name="Scroll" transform="translate(642 1093)" fill="#0a0a0a">
+      <path d="M -266.0003662109375 -835.7684936523438 L -276.9129638671875 -848.4996948242188 L -255.0869598388672 -848.4996948242188 L -266.0003662109375 -835.7684936523438 Z M -255.0869293212891 -855.5 L -276.9130249023438 -855.5 L -266.0003967285156 -868.2321166992188 L -255.0869293212891 -855.5 Z" stroke="none"/>
+      <path d="M -266.0003662109375 -836.5368041992188 L -256.1741333007813 -847.9996948242188 L -275.8258361816406 -847.9996948242188 L -266.0003662109375 -836.5368041992188 M -256.1740417480469 -856 L -266.0003662109375 -867.4638061523438 L -275.8259582519531 -856 L -256.1740417480469 -856 M -266.0003967285156 -835.000244140625 L -278.0000915527344 -848.9996948242188 L -253.9998016357422 -848.9996948242188 L -266.0003967285156 -835.000244140625 Z M -253.9998016357422 -855 L -278.0000915527344 -855 L -266.0003967285156 -869.0004272460938 L -253.9998016357422 -855 Z" stroke="none" fill="#0a0a0a"/>
+    </g>
+    <rect id="Text_field-3" data-name="Text field" width="368" height="40" transform="translate(24.5 222)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Localidad" transform="translate(24.5 215)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Localidad</tspan></text>
+    <path id="Scroll-4" data-name="Scroll" d="M-266-835.768-276.913-848.5h21.826Zm10.913-19.732h-21.826L-266-868.232Z" transform="translate(642 1011)" fill="#0a0a0a" stroke="#0a0a0a" stroke-width="1"/>
+    <rect id="Text_field-4" data-name="Text field" width="368" height="40" transform="translate(24.5 140)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Localidad-2" data-name="Localidad" transform="translate(24.5 133)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Ciudad</tspan></text>
+    <text id="REPORTE_SITUACIONES" data-name="REPORTE
+SITUACIONES" transform="translate(206 54)" fill="#fbf6f6" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-70.017" y="0">REPORTE</tspan><tspan x="-105.59" y="35">SITUACIONES</tspan></text>
+  </g>
+</svg>
