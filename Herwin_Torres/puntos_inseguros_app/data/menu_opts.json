@@ -1,0 +1,25 @@
+{
+  "nombreApp" : "puntos_inseguros_app",
+  "rutas" : [
+    {
+      "ruta" : "reportar_incidente",
+      "icon" : "create",
+      "texto": "Reportar Incidente"
+    },
+    {
+      "ruta" : "punto_critico",
+      "icon" : "add_location",
+      "texto": "Puntos Críticos"
+    },
+    {
+      "ruta" : "estadistica_delictiva",
+      "icon" : "equalizer",
+      "texto": "Estadística Delictiva"
+    },
+    {
+      "ruta" : "datos_personales",
+      "icon" : "local_library",
+      "texto": "Política Datos Personales"
+    }
+  ]
+}
